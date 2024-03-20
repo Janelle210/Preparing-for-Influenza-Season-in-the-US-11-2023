@@ -10,7 +10,7 @@ Analyze historical influenza trends in the U.S. to assist the medical staffing a
 
 [Influenza Visits](https://github.com/Janelle210/Preparing-for-Influenza-Season-in-the-US-11-2023/blob/main/Influenza%20data/CDC_Influenza_Visits.xlsx) and [Lab Tests](https://github.com/Janelle210/Preparing-for-Influenza-Season-in-the-US-11-2023/blob/main/Influenza%20data/labdataraw.xlsx) via [CDC](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)
 
-Influenza Vaccination Rates in Children cia [CDC](https://www.cdc.gov/vaccines/imz-managers/nis/about.html)
+[Influenza Vaccination Rates in Children](https://github.com/Janelle210/Preparing-for-Influenza-Season-in-the-US-11-2023/blob/main/Influenza%20data/NIS_Flu_Shot_Survey_reduced.xlsx) via [CDC](https://www.cdc.gov/vaccines/imz-managers/nis/about.html)
 
 
 

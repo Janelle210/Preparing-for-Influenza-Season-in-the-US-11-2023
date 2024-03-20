@@ -4,7 +4,7 @@ Analyze historical influenza trends in the U.S. to assist the medical staffing a
 # Project Data
 [Project Brief](https://github.com/Janelle210/Preparing-for-Influenza-Season-in-the-US-11-2023/blob/main/A1-A2-data-immersion-project-brief.pdf)
 
-Influenza Deaths via [CDC](https://wonder.cdc.gov/ucd-icd10.html)
+[Influenza Deaths](https://github.com/Janelle210/Preparing-for-Influenza-Season-in-the-US-11-2023/blob/main/Influenza%20data/CDC_Influenza_Deaths_edited.xlsx) via [CDC](https://wonder.cdc.gov/ucd-icd10.html)
 
 Population Data via [U.S. Census Bureau](https://data.census.gov/)
 

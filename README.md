@@ -1,4 +1,4 @@
-# Preparing-for-Influenza-Season-in-the-US-11-2023
+# Preparing for Influenza Season in the US
 Analyze historical influenza trends in the U.S. to assist the medical staffing agency in the deployment of temporary healthcare personnel for the upcoming season.
 
 # Project Data

@@ -6,7 +6,7 @@ Analyze historical influenza trends in the U.S. to assist the medical staffing a
 
 [Influenza Deaths](https://github.com/Janelle210/Preparing-for-Influenza-Season-in-the-US-11-2023/blob/main/Influenza%20data/CDC_Influenza_Deaths_edited.xlsx) via [CDC](https://wonder.cdc.gov/ucd-icd10.html)
 
-Population Data via [U.S. Census Bureau](https://data.census.gov/)
+[Population Data](https://github.com/Janelle210/Preparing-for-Influenza-Season-in-the-US-11-2023/blob/main/Influenza%20data/Census_Population_transformed_202101.csv) via [U.S. Census Bureau](https://data.census.gov/)
 
 Influenza Visits and Lab Tests via [CDC](https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html)
 
